@@ -1,4 +1,11 @@
 # Implementing-KNN-DT
 
-<iframe width="100%" height="800" src="COMP_551_Assignment_1_Report___Group_102_v2 (1).pdf">
+The assignment consisted of implementing the K-Nearest Neighbours (KNN) and Decision Tree (DT) machine
+learning algorithms from scratch, applying them on two fixed benchmark data sets acquired from the web, and
+analyzing their performance.
+To ensure maximal accuracy, we tested on many different values for the hyper parameters, and also implemented
+a weighted version of KNN to compare performance. We found that KNN performed better than DT on both
+data sets in terms of loss, AUROC, and AUPRC, even though DT proved to have better accuracy on the Hepatitis
+data sets which is imbalanced.
+
 
